@@ -12,7 +12,7 @@ This Power BI report provides a detailed analysis of Unified Payments Interface 
 
 Users can interactively filter and explore data across various dimensions, gaining clarity on trends such as transaction volume, value, top-performing apps, and state-wise usage.
 
-##✨ What’s New:
+## ✨ What’s New:
 A notable feature of this report is the use of Power BI Bookmarks, allowing users to view the same dataset through multiple visual perspectives. This helps in better storytelling and comparative analysis without switching pages or disrupting flow.
 
 
